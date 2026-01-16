@@ -1,0 +1,77 @@
+{
+  "profil": {
+    "nom": "Victor Hanon",
+    "titre": "Développeur Web Junior",
+    "photo": "/images/photo-profil.jpg",
+    "bio": "Étudiant à la Wild Code School, passionné par le développement web et React. Ancien musicien à la Garde Républicaine, amateur de montagne et de plongée sous-marine.",
+    "email": "hanonvictor@gmail.com",
+    "github": "https://github.com/Victor-Hanon",
+    "linkedin": "https://www.linkedin.com/in/victor-hanon-035b901b1"
+  },
+  "projets": [
+    {
+      "id": 1,
+      "titre": "Le Grand Quiz des Villes des Wilders",
+      "description": "Application de quiz interactive développée en groupe, permettant de tester ses connaissances sur les villes françaises et belges.",
+      "technologies": ["HTML", "JavaScript", "CSS"],
+      "github": "https://github.com/Victor-Hanon/WCS-BigProject-1"
+    },
+    {
+      "id": 2,
+      "titre": "Pokédex Interactif",
+      "description": "Application React avec navigation et affichage dynamique des Pokémon. Gestion d'état avec useState et affichage conditionnel.",
+      "technologies": ["HTML", "JavaScript", "CSS"],
+      "github": "https://github.com/Victor-Hanon/my-pokedex"
+    },
+    {
+      "id": 3,
+      "titre": "Carnet Sauvage",
+      "description": "Application pour photographes animaliers permettant de cataloguer et organiser leurs photos de faune sauvage.",
+      "technologies": ["HTML", "JavaScript", "CSS"],
+      "github": "https://github.com/Victor-Hanon/Carnet-Sauvage-SoloRush"
+    },
+    {
+      "id": 4,
+      "titre": "Runtrack",
+      "description": "Application de course à pied avec suivi des performances et mise en compétition entre utilisateurs.",
+      "technologies": ["React", "JavaScript", "CSS"],
+      "github": "https://github.com/Victor-Hanon/runtrack"
+    },
+    {
+      "id": 5,
+      "titre": "Bivak",
+      "description": "Application de preparation de bivouac en montagne. Gestion des équipements, météo et itinéraires.",
+      "technologies": ["React", "JavaScript", "CSS"],
+      "github": "https://github.com/Victor-Hanon"
+    },
+    {
+      "id": 6,
+      "titre": "TerraVigne",
+      "description": "Application de gestion de domaine viticole. Suivi des parcelles, des vendanges et des stocks de vin.",
+      "technologies": ["React", "JavaScript", "CSS"],
+      "github": "https://github.com/Victor-Hanon"
+    }
+  ],
+  "competences": [
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Git & GitHub",
+    "Vite"
+  ],
+  "passions": [
+    {
+      "nom": "Alpinisme",
+      "description": "Pratique de l'alpinisme avec bivouacs en altitude et progression en terrain engagé"
+    },
+    {
+      "nom": "Plongée",
+      "description": "Plongée sous-marine technique et exploration en profondeur"
+    },
+    {
+      "nom": "Musique",
+      "description": "Ancien musicien au sein de la Garde Républicaine"
+    }
+  ]
+}
