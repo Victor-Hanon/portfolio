@@ -5,6 +5,7 @@ import Projects from './components/Projects'
 import Skills from './components/Skills'
 import Passions from './components/Passions'
 import Footer from './components/Footer'
+import Contact from './components/Contact'
 
 interface Data {
   profil: {
@@ -48,6 +49,7 @@ function App() {
         <Projects projets={data.projets} />
         <Skills competences={data.competences} />
         <Passions passions={data.passions} />
+        <Contact />
       </main>
       <Footer nom={data.profil.nom} />
     </div>
